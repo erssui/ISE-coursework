@@ -1,5 +1,5 @@
 # ISE-coursework
-Required packages:\
+Required packages:
 
 &nbsp;&nbsp;&nbsp;&nbsp;pandas\
 &nbsp;&nbsp;&nbsp;&nbsp;numpy\
@@ -13,7 +13,7 @@ How to run the code:
   1. python SVM.py
   2. choose a file name (caffe, incubator-mxnet, keras, pytorch, tensorflow) to check the result.
 
-How to replicate the results reported:\
+How to replicate the results reported:
 
 &nbsp;&nbsp;&nbsp;&nbsp;For each chosen file (caffe, incubator-mxnet, keras, pytorch, tensorflow), the result of the
   execution will show the AUC metric of SVM and NB. The result of checking if there is a
