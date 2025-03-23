@@ -7,7 +7,7 @@ Required packages:\
   nltk\
   sktlearn\
 
-How to run the code:\
+How to run the code:
   1. python SVM.py
   2. choose a file name (caffe, incubator-mxnet, keras, pytorch, tensorflow) to check the result.
 
