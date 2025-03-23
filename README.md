@@ -1,24 +1,25 @@
 # ISE-coursework
 Required packages:\
-'''
-  pandas\
-  numpy\
-  scipy\
-  re\
-  nltk\
-  sktlearn
-'''
+
+&nbsp;&nbsp;&nbsp;&nbsp;pandas\
+&nbsp;&nbsp;&nbsp;&nbsp;numpy\
+&nbsp;&nbsp;&nbsp;&nbsp;scipy\
+&nbsp;&nbsp;&nbsp;&nbsp;re\
+&nbsp;&nbsp;&nbsp;&nbsp;nltk\
+&nbsp;&nbsp;&nbsp;&nbsp;sktlearn
 
 How to run the code:
+
   1. python SVM.py
   2. choose a file name (caffe, incubator-mxnet, keras, pytorch, tensorflow) to check the result.
 
 How to replicate the results reported:\
-  For each chosen file (caffe, incubator-mxnet, keras, pytorch, tensorflow), the result of the
+
+&nbsp;&nbsp;&nbsp;&nbsp;For each chosen file (caffe, incubator-mxnet, keras, pytorch, tensorflow), the result of the
   execution will show the AUC metric of SVM and NB. The result of checking if there is a
   statistical significance will also be shown.
   
-  In this way, all results for 5 files can be replicated.
+&nbsp;&nbsp;&nbsp;&nbsp;In this way, all results for 5 files can be replicated.
 
   For easily comparing the results instead of checking the screenshots, they are listed here:
 
